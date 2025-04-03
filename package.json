@@ -1,0 +1,24 @@
+{
+  "name": "making-your-first-api-and-page---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reshma-devraj/Making-your-first-API-and-page---Practice-assignment-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/reshma-devraj/Making-your-first-API-and-page---Practice-assignment-2/issues"
+  },
+  "homepage": "https://github.com/reshma-devraj/Making-your-first-API-and-page---Practice-assignment-2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
